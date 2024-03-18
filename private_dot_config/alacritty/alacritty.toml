@@ -1,0 +1,24 @@
+import = ["gruvbox.yml"]
+
+[font]
+size = 12
+
+[font.bold]
+family = "Victor Mono"
+style = "Bold"
+
+[font.bold_italic]
+family = "Victor Mono"
+style = "Bold Italic"
+
+[font.italic]
+family = "Victor Mono"
+style = "Italic"
+
+[font.normal]
+family = "Victor Mono"
+style = "Regular"
+
+[window.padding]
+x = 5
+y = 5
